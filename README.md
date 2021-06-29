@@ -1,4 +1,6 @@
-### studying Swift / Web / Physics
+### Studying Physics / Programming
+
+bbogle7613@gmail.com
 
 https://velog.io/@budlebee
 

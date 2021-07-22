@@ -1,7 +1,12 @@
 ### Studying Physics / Programming
 
+- 개인 이메일
 bbogle7613@gmail.com
 
+- 일반 블로그
+https://budlebee.wordpress.com
+
+- 개발, 물리 관련
 https://velog.io/@budlebee
 
 

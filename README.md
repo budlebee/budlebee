@@ -1,12 +1,15 @@
 ### Physics / Programming
 
 - personal email
+
 budlebee@🚀.kz || bbogle7613@gmail.com
 
 - miscellaneous
+
 https://budlebee.wordpress.com
 
 - programming miscellaneous
+
 https://velog.io/@budlebee
 
 

@@ -1,12 +1,12 @@
 ### Physics / Programming
 
-- 개인 이메일
+- personal email
 budlebee@🚀.kz || bbogle7613@gmail.com
 
-- 일반 블로그
+- miscellaneous
 https://budlebee.wordpress.com
 
-- 프로그래밍, 물리 관련
+- programming miscellaneous
 https://velog.io/@budlebee
 
 

@@ -1,17 +1,12 @@
 ### Physics / Programming
 
-- personal email
+- 📫 personal email
 
 budlebee@🚀.kz || bbogle7613@gmail.com
 
-- miscellaneous
+- ⚡ miscellaneous (blog)
 
 https://budlebee.wordpress.com
-
-- programming miscellaneous
-
-https://velog.io/@budlebee
-
 
 <!--
 **budlebee/budlebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 - 📫 personal email
 
-budlebee@🚀.kz || bbogle7613@gmail.com
+bbogle7613@gmail.com
 
 - ⚡ miscellaneous (blog)
 

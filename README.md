@@ -4,7 +4,7 @@
 
 bbogle7613@gmail.com
 
-- ⚡ miscellaneous (blog)
+- 💬 blog
 
 https://budlebee.wordpress.com
 

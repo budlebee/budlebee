@@ -1,9 +1,3 @@
-### Physics / Programming
-
-- 📫 personal email
-
-bbogle7613@gmail.com
-
 - 💬 blog
 
 https://budlebee.wordpress.com
